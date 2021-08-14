@@ -2,6 +2,13 @@
 	"name": "tttt",
 	"type": "dark",
 	"colors": {
+		"editorLineNumber.foreground": "#ba6e2b",
+		"editorLineNumber.activeForeground": "#ff0000",
+		"editorCursor.foreground": "#d9d9d9",
+		"editorCursor.background": "#ff0e0e",
+		"editor.selectionBackground": "#782626",
+		"editor.inactiveSelectionBackground": "#ff0e0e56",
+		"minimap.background": "#000000",
 		"focusBorder": "#484c4f00",
 		"progressBar.background": "#c06a0e",
 		"selection.background": "#b0522e",
