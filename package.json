@@ -1,8 +1,10 @@
 {
-    "name": "test",
-    "displayName": "test",
-    "description": "",
-    "version": "0.0.1",
+    "name": "fiery-theme",
+    "displayName": "Fiery-theme",
+    "publisher": "Reubencf",
+    "email" : "18reuchagasfernandes@gmail.com",
+    "description": "Dont Play With Fore Kids !",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -17,5 +19,9 @@
                 "path": "./themes/tttt-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gco360/fiery-Vscodetheme.git"
+      }
 }
